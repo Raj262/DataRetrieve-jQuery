@@ -1,0 +1,19 @@
+h1{
+
+	color:black;
+	font-family: cursive;
+	text-align: center;
+}
+body{
+	background-color: #eca979;
+	font-family: cursive;
+}
+button{
+	color:black;
+	background-color:lightblue;
+    margin-left:600px;
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
